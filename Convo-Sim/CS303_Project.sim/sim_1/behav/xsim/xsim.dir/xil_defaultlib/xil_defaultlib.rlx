@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/CS303_labs/CS303_Project/CS303_Project.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/CS303_labs/CS303_Project/CS303_Project.srcs/sim_1/new/tel_tb.v,1641160942,verilog,,C:/CS303_labs/CS303_Project/CS303_Project.srcs/sim_1/new/tel_tb_2.v,,tel_tb,,,,,,,,
+C:/CS303_labs/CS303_Project/CS303_Project.srcs/sim_1/new/tel_tb_2.v,1641160947,verilog,,C:/CS303_labs/CS303_Project/CS303_Project.srcs/sources_1/new/telephone.v,,tel_tb_2,,,,,,,,
+C:/CS303_labs/CS303_Project/CS303_Project.srcs/sim_1/new/test.v,1641159578,verilog,,,,test,,,,,,,,
+C:/CS303_labs/CS303_Project/CS303_Project.srcs/sources_1/new/telephone.v,1641160519,verilog,,C:/CS303_labs/CS303_Project/CS303_Project.srcs/sim_1/new/test.v,,telephone,,,,,,,,
